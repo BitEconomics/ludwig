@@ -25,6 +25,7 @@ The core design principles we baked into the toolbox are:
 
 Installation
 ============
+Issues: (1) Had to install tensorflow-gpu after "pip Install ludwig" as it corrupted the orginal tensorflow install (from requriements.txt). 
 
 Ludwig's basic requirements are the following:
 
